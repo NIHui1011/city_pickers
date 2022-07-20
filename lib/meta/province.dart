@@ -1218,6 +1218,7 @@ const Map<String, dynamic> citiesData = {
     "330110": {"name": "余杭区", "alpha": "y"},
     "330111": {"name": "富阳区", "alpha": "f"},
     "330112": {"name": "临安区", "alpha": "l"},
+    "330113": {"name": "临ping区", "alpha": "l"},
     "330122": {"name": "桐庐县", "alpha": "t"},
     "330127": {"name": "淳安县", "alpha": "c"},
     "330182": {"name": "建德市", "alpha": "j"}
@@ -4024,7 +4025,7 @@ const Map<String, dynamic> citiesData = {
     "640100": {"name": "银川市", "alpha": "y"},
     "640200": {"name": "石嘴山市", "alpha": "s"},
     "640300": {"name": "吴忠市", "alpha": "w"},
-    "360600640400": {"name": "固原市", "alpha": "g"},
+    "640400": {"name": "固原市", "alpha": "g"},
     "640500": {"name": "中卫市", "alpha": "z"}
   },
   "640100": {
